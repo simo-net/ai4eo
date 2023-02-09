@@ -8,5 +8,5 @@ Afetr a first step of cloud masking, coregistration and upsampling of all the gi
 ### Example Results
 
 <p align="center">
-  <img src="./results.png" alt="logo" width="1000"/>
+  <img src="./results.png" alt="logo" width="800"/>
 </p>
